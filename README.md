@@ -6,10 +6,10 @@ In this repository you can find calibration of three models:
 
 Moreover, here you can find Monte Carlo realization of these models too
 
-There are two files: Fitting on IV.ipynb and Fitt Fitting on volatility surface.ipynb. They are quite same but in the Fitting on IV.ipynb I calibrate parameters by implied curve i.e. 1 time period, in the second file I calibrate parameters by volatility surface i.e. on 3 time periods.
+There are two files: Fitting on IV.ipynb and Fitting on volatility surface.ipynb. They are quite same but in the Fitting on IV.ipynb I calibrate parameters by implied curve i.e. 1 time period, in the second file I calibrate parameters by volatility surface i.e. on 3 time periods.
 
 
-As data I used options from Russia exchange MOEX(https://www.moex.com/ru/derivatives/optionsdesk.aspx?code=Si-6.20&sid=2&sby=1&c4=on&c6=on&c7=on&submit=submit). In the repository this file is named "data.xlsx"
+As data I used options from Russian exchange - MOEX(https://www.moex.com/ru/derivatives/optionsdesk.aspx?code=Si-6.20&sid=2&sby=1&c4=on&c6=on&c7=on&submit=submit). In the repository this file is named "data.xlsx"
 
 
 
