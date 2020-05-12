@@ -1,8 +1,8 @@
 # Derivatives
 In this repository you can find calibration of three models:
   1) Merton's Jump Diffusion, 1976 (MJD). Both for 1 time (Fitting on IV) and for 3 time intervals simultaneously (Fitting on volatility surface)
-  2) Heston Model 1993 (SV). Both for 1 time (Fitting on IV) and for 3 time intervals simultaneously (Fitting on volatility surface)
-  3) Bates Model 1996 (SVJ). Both for 1 time (Fitting on IV) and for 3 time intervals simultaneously (Fitting on volatility surface)
+  2) Heston Model, 1993 (SV). Both for 1 time (Fitting on IV) and for 3 time intervals simultaneously (Fitting on volatility surface)
+  3) Bates Model, 1996 (SVJ). Both for 1 time (Fitting on IV) and for 3 time intervals simultaneously (Fitting on volatility surface)
 
 Moreover, in there you can find Monte Carlo realization of these models too
 
