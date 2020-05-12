@@ -6,4 +6,8 @@ In this repository you can find calibration of three models:
 
 Moreover, here you can find Monte Carlo realization of these models too
 
+As data I used options from Russia exchange MOEX(https://www.moex.com/ru/derivatives/optionsdesk.aspx?code=Si-6.20&sid=2&sby=1&c4=on&c6=on&c7=on&submit=submit). In the repository this file is named "data.xlsx"
+
+
+
 In this project I used a lot http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html and material/books from Yves Hilpisch (Python for finance, Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging (The Wiley Finance Series)). In this books you can find main ideas and code too.
